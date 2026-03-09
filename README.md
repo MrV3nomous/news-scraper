@@ -55,12 +55,6 @@ Follow the prompts to:
 - Optionally, provide keywords to highlight.
 - Press Ctrl+C to stop live scraping.
 
----
-
-## Why This Project? 💡
-Demonstrates web scraping, RSS feed handling, and real-time terminal dashboards.
-Useful for monitoring multiple news sources in one place.
-Great portfolio project for Python, network programming, and CLI tools.
 
 ---
 
