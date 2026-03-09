@@ -32,27 +32,28 @@ pip install -r requirements.txt
 ```
 
 Requirements:
-feedparser
-requests
-beautifulsoup4
-rich
+- feedparser
+- requests
+- beautifulsoup4
+- rich
 
 
 ---
 
 ## Usage 🏃
 Run the program:
-Bash
-Copy code
+```bash
 python news_scraper.py
+```
+
 Follow the prompts to:
-Enter custom websites (optional).
-Select news sources.
-Choose categories per source.
-Set the number of headlines per source.
-Set refresh interval in seconds.
-Optionally, provide keywords to highlight.
-Press Ctrl+C to stop live scraping.
+- Enter custom websites (optional).
+- Select news sources.
+- Choose categories per source.
+- Set the number of headlines per source.
+- Set refresh interval in seconds.
+- Optionally, provide keywords to highlight.
+- Press Ctrl+C to stop live scraping.
 
 ---
 
